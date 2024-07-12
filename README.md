@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Brayan
 
-<!--
-**codecsrayo/codecsrayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por el análisis de datos y la creación de soluciones eficientes y escalables. Con experiencia en varias tecnologías, me esfuerzo por mejorar continuamente mis habilidades y contribuir a proyectos innovadores.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:** Python, SQL, TypeScript
+- **Análisis de Datos y Ciencia de Datos:** KNIME, Pandas, NumPy, Scikit-learn
+- **Desarrollo Web:** HTML, TailwindCSS, React, FastAPI
+- **Bases de Datos:** MySQL, PostgreSQL, SQLite
+- **Control de Versiones:** Git, GitHub
+- **Otras Herramientas:** Jupyter Notebooks, VSCode, Docker Compose
+
+### 🚀 Proyectos Destacados
+
+- **Análisis de Datos en KNIME:** Desarrollo de flujos de trabajo complejos para análisis de datos avanzados, visualización y automatización de informes.
+- **Predicción Sarlaft:** Implementación de modelos predictivos para la detección de lavado de activos y financiación del terrorismo utilizando Python, Scikit-learn y KNIME.
+- **Aplicación Web:** Creación de una aplicación web interactiva para monitoreo transaccional usando FastAPI y React.
+
+### 📚 Educación y Certificaciones
+
+- **Ingeniería de Software** (en curso)
+
+### 🌱 Actualmente
+
+- Explorando nuevas tecnologías y frameworks en el ámbito del análisis de datos.
+- Progresando en desarrollo web.
+- Colaborando en proyectos de código abierto y contribuyendo a la comunidad de desarrolladores.
+- Gran interés en Machine Learning (ML).
+
+### 🔗 Conéctate Conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/brayan-rayo-a22789155/)
+
+
+
