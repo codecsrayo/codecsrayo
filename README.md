@@ -34,3 +34,4 @@ Soy un desarrollador apasionado por el análisis de datos y la creación de solu
 
 
 
+[![wakatime](https://wakatime.com/badge/user/018c69fd-6265-4af3-9c0a-4eed1ab8c2d9.svg)](https://wakatime.com/@018c69fd-6265-4af3-9c0a-4eed1ab8c2d9)
