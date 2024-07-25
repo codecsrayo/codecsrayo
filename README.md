@@ -1,3 +1,8 @@
+
+<p align="center"> 
+  Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/codecsrayo/count.svg" />
+</p>
 # 👋 ¡Hola! Soy Brayan
 
 Soy un desarrollador apasionado por el análisis de datos y la creación de soluciones eficientes y escalables. Con experiencia en varias tecnologías, me esfuerzo por mejorar continuamente mis habilidades y contribuir a proyectos innovadores.
@@ -27,8 +32,6 @@ Soy un desarrollador apasionado por el análisis de datos y la creación de solu
 - Progresando en desarrollo web.
 - Colaborando en proyectos de código abierto y contribuyendo a la comunidad de desarrolladores.
 - Gran interés en Machine Learning (ML).
-
-### 🔗 Conéctate Conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/brayan-rayo-a22789155/)
 
