@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/codecsrayo/count.svg" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecsrayo&show_icons=true&theme=highcontrast&custom_title=Hola&nbsp;Soy&nbsp;Brayan 👋&show_icons=true&locale=es" alt="github-starts" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecsrayo&show_icons=true&theme=highcontrast&custom_title=Hola&nbsp;Soy&nbsp;Brayan&show_icons=true&locale=es" alt="github-starts" /></p>
 
 
 ### 💻 Tecnologías y Herramientas
