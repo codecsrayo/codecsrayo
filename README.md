@@ -35,6 +35,8 @@ Soy un desarrollador apasionado por el análisis de datos y la creación de solu
 
 - [LinkedIn](https://www.linkedin.com/in/brayan-rayo-a22789155/)
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsrayo&layout=compact&theme=dark" alt="Lenguajes más usados">
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/018c69fd-6265-4af3-9c0a-4eed1ab8c2d9.svg)](https://wakatime.com/@018c69fd-6265-4af3-9c0a-4eed1ab8c2d9)
