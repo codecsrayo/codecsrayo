@@ -5,9 +5,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecsrayo&show_icons=true&locale=en" alt="github-starts" /></p>
-# 👋 ¡Hola! Soy Brayan
 
-Soy un desarrollador apasionado por el análisis de datos y la creación de soluciones eficientes y escalables. Con experiencia en varias tecnologías, me esfuerzo por mejorar continuamente mis habilidades y contribuir a proyectos innovadores.
 
 ### 💻 Tecnologías y Herramientas
 
