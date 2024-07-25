@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/codecsrayo/count.svg" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecsrayo&show_icons=true&locale=en" alt="github-starts" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecsrayo&show_icons=true&theme=highcontrast&custom_title=My&nbsp;GitHub&nbsp;Stats&show_icons=true&locale=es" alt="github-starts" /></p>
 
 
 ### 💻 Tecnologías y Herramientas
@@ -36,7 +36,7 @@
 - [LinkedIn](https://www.linkedin.com/in/brayan-rayo-a22789155/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsrayo&layout=compact&theme=dark" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsrayo&layout=donut&theme=dark" alt="Lenguajes más usados">
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/018c69fd-6265-4af3-9c0a-4eed1ab8c2d9.svg)](https://wakatime.com/@018c69fd-6265-4af3-9c0a-4eed1ab8c2d9)
