@@ -33,7 +33,6 @@
 - Colaborando en proyectos de código abierto y contribuyendo a la comunidad de desarrolladores.
 - Gran interés en Machine Learning (ML).
 
-- [LinkedIn](https://www.linkedin.com/in/brayan-rayo-a22789155/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsrayo&layout=donut&theme=highcontrast" alt="Lenguajes más usados">
