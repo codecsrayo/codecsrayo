@@ -9,11 +9,11 @@
 <img src="https://wakatime.com/share/@codecsrayo/074a423f-f68d-443a-bee9-0a945bfc2e05.svg" width="800" height="400" alt="wakatime" >
 
 
-## Sistemas operativos
+## Sistemas Operativos
 <img src="https://wakatime.com/share/@codecsrayo/746c9508-384f-4979-952b-6deab4a17a58.svg" width="800" height="400" alt="wakatime" >
 
 
 
 
-## editores
+## Editores
 <img src="https://wakatime.com/share/@codecsrayo/5deab74d-af2a-433f-8038-70966f720239.svg" width="800" height="400" alt="wakatime" >
