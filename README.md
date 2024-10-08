@@ -19,12 +19,3 @@
 <img src="https://wakatime.com/share/@codecsrayo/5deab74d-af2a-433f-8038-70966f720239.svg" width="800" height="400" alt="wakatime" >
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XWX8GF06K3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XWX8GF06K3');
-</script>
